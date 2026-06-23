@@ -8,3 +8,4 @@ https://github.com/sunshine25txt/Web_Tech_19.git
 #changes from local
 #chnges from remote
 #again local
+#push to the new branch dev
