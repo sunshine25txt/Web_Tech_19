@@ -6,3 +6,5 @@
 #changed in github , but not local system.
 https://github.com/sunshine25txt/Web_Tech_19.git
 #changes from local
+#chnges from remote
+#again local
