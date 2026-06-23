@@ -10,3 +10,6 @@ https://github.com/sunshine25txt/Web_Tech_19.git
 #again local
 #push to the new branch dev
 #psh to again
+#chnges from remote
+#chnages again remote
+#push to dev branch
