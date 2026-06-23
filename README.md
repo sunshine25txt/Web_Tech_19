@@ -9,3 +9,5 @@ https://github.com/sunshine25txt/Web_Tech_19.git
 #chnges from remote
 #again local
 #push to the new branch dev
+#chnges from remote
+#chnages again remote
